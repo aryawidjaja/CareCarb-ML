@@ -101,7 +101,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 ### Download Model
 
-- The pre-trained machine learning model can be downloaded from the [CareCarb Model Repository](link_to_model_repo).
+- The machine learning model can be downloaded from the [CareCarb Transport Model](https://github.com/aryawidjaja/CareCarb-ML/blob/main/ImprovedTransportModel.h5).
 
 ### Required Files
 
