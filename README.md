@@ -108,9 +108,9 @@ Before you begin, ensure you have the following dependencies installed:
 - Ensure that the following files are available in your project directory:
   - `ImprovedTransportationModel.h5`
   - `scaler.npy`
-  - 'label_encoder_classes.npy'
-  - 'user_data.csv'
-  - 'emission.csv'
+  - `label_encoder_classes.npy`
+  - `user_data.csv`
+  - `emission.csv`
 
 ## License
 
