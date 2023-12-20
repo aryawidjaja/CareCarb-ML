@@ -1,7 +1,6 @@
-# CareCarb-ML
 # CareCarb - Carbon Footprint Tracker App
 
-![CareCarb Logo]([link_to_your_logo](https://drive.google.com/file/d/1Xv8wpJnRqFg7jIebB6iG06vFyVdl1Dgy/view?usp=share_link))
+![CareCarb Logo](https://drive.google.com/file/d/1Xv8wpJnRqFg7jIebB6iG06vFyVdl1Dgy/view?usp=share_link)
 
 CareCarb is an innovative mobile application designed to help users track and manage their carbon footprint. The app utilizes a multi-class classifier machine learning algorithm to predict the carbon footprint associated with both transportation and food consumption. By providing insights and recommendations, CareCarb empowers users to make environmentally conscious choices and reduce their overall impact on the planet.
 
@@ -29,7 +28,7 @@ CareCarb is an innovative mobile application designed to help users track and ma
 
 Before you begin, ensure you have the following dependencies installed:
 
-- [Python](https://www.python.org/) (version x.x.x)
+- [Python](https://www.python.org/) (version 3.9.13)
 - [pip](https://pip.pypa.io/en/stable/)
 - [virtualenv](https://virtualenv.pypa.io/en/stable/)
 
@@ -44,7 +43,7 @@ Before you begin, ensure you have the following dependencies installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd CareCarb
+   cd CareCarb-ML
    ```
 
 3. Create a virtual environment:
@@ -108,12 +107,11 @@ Before you begin, ensure you have the following dependencies installed:
 ### Required Files
 
 - Ensure that the following files are available in your project directory:
-  - `model_weights.h5`
-  - `tokenizer.pkl`
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+  - `ImprovedTransportationModel.h5`
+  - `scaler.npy`
+  - 'label_encoder_classes.npy'
+  - 'user_data.csv'
+  - 'emission.csv'
 
 ## License
 
@@ -121,8 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [List of Contributors] for their contributions to CareCarb.
+- Special thanks to CareCarb team for their contributions to CareCarb.
 - Hat tip to anyone whose code was used.
 - Inspiration for the project.
-
-Feel free to customize the README to suit the specific details of your project.
