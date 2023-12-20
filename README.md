@@ -1,6 +1,5 @@
 # CareCarb - Carbon Footprint Tracker App
-
-![CareCarb Logo](https://drive.google.com/file/d/1Xv8wpJnRqFg7jIebB6iG06vFyVdl1Dgy/view?usp=share_link)
+![CareCarb Logo](https://github.com/aryawidjaja/CareCarb-ML/assets/130090399/2e70fbc0-c795-45c4-a494-c5c968778a02)
 
 CareCarb is an innovative mobile application designed to help users track and manage their carbon footprint. The app utilizes a multi-class classifier machine learning algorithm to predict the carbon footprint associated with both transportation and food consumption. By providing insights and recommendations, CareCarb empowers users to make environmentally conscious choices and reduce their overall impact on the planet.
 
